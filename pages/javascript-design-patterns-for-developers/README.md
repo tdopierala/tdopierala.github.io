@@ -12,6 +12,8 @@ Any JavaScript developer has either seen the keyword prototype, confused by the 
 
 The objects created are clones (shallow clones) of the original object that are passed around. One use case of the prototype pattern is performing an extensive database operation to create an object used for other parts of the application. If another process needs to use this object, instead of having to perform this substantial database operation, it would be advantageous to clone the previously created object.
 
+![Prototype Design Pattern](/images/prototype-pattern.png)
+
 This UML describes how a prototype interface is used to clone concrete implementations.
 
 To clone an object, a constructor must exist to instantiate the first object. Next, by using the keyword prototype variables and methods bind to the object’s structure. Let’s look at a basic example:
@@ -169,6 +171,8 @@ Although this looks much cleaner, an obvious disadvantage is unable to reference
 There are many times when one part of the application changes, other parts needs to be updated. In AngularJS, if the $scope object updates, an event can be triggered to notify another component. The observer pattern incorporates just that - if an object is modified it broadcasts to dependent objects that a change has occurred.
 
 Another prime example is the model-view-controller (MVC) architecture; The view updates when the model changes. One benefit is decoupling the view from the model to reduce dependencies.
+
+![Observer Design Pattern](/images/observer-pattern.png)
 
 As shown in the UML diagram, the necessary objects are the `subject`, `observer`, and `concrete` objects. The subject contains references to the concrete observers to notify for any changes. The Observer object is an abstract class that allows for the concrete observers to implements the notify method.
 

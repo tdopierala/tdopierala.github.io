@@ -8,3 +8,4 @@ List of pages:
 - [15 Best Tips to Improve Your JavaScript Skills](pages/15_best_tips_to_improve_your_javascript_skils/)
 - [JavaScript Design Patterns for Developers](pages/javascript-design-patterns-for-developers/)
 - [JS Copy an Object – How to Clone an Obj in JavaScript](pages/clone-an-object-in-javascript.md)
+- [Event Delegation in JavaScript – Explained with an Example](pages/event-delegation-in-javascript.md)

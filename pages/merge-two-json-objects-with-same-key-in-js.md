@@ -110,3 +110,5 @@ The solution is simply to use a JavaScript array `concat()`
 ```javascript
 var finalObj = json1.concat(json2);
 ```
+
+Article archived from: [https://tutorial.eyehunts.com/js/merge-two-json-objects-with-same-key-javascript-example-code/](https://tutorial.eyehunts.com/js/merge-two-json-objects-with-same-key-javascript-example-code/)

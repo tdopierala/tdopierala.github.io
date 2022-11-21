@@ -6,14 +6,14 @@ Let's see what filter, forEach, some, every, includes, map, reduce, sort, find, 
 
 - [filter()](#1-filter)
 - [forEach()](#2-foreach)
-- [some()](3-some)
-- [every()](4-every)
-- [includes()](5-includes)
-- [map()](6-map)
-- [reduce()](7-reduce)
-- [sort()](8-sort)
-- [find()](9-find)
-- [findIndex()](10-findindex)
+- [some()](#3-some)
+- [every()](#4-every)
+- [includes()](#5-includes)
+- [map()](#6-map)
+- [reduce()](#7-reduce)
+- [sort()](#8-sort)
+- [find()](#9-find)
+- [findIndex()](#10-findindex)
 
 ## 1. filter()
 

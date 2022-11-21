@@ -4,16 +4,16 @@ Let's see what filter, forEach, some, every, includes, map, reduce, sort, find, 
 
 **TABLE OF CONTENTS**
 
-- filter()
-- forEach()
-- some()
-- every()
-- includes()
-- map()
-- reduce()
-- sort()
-- find()
-- findIndex()
+- [filter()](#1-filter)
+- [forEach()](#2-foreach)
+- [some()](3-some)
+- [every()](4-every)
+- [includes()](5-includes)
+- [map()](6-map)
+- [reduce()](7-reduce)
+- [sort()](8-sort)
+- [find()](9-find)
+- [findIndex()](10-findindex)
 
 ## 1. filter()
 
@@ -559,3 +559,5 @@ Array.prototype.findIndex = findIndex;
 ```
 
 `findIndex` iterates over all elements as all the other array methods do. You should notice the similarity to `find`. Instead of returning the element, only the index is returned when an element is found. Instead of undefined, if nothing is found, -1 is returned.
+
+Article archived from: [https://morioh.com/p/e70e5ead0376](https://morioh.com/p/e70e5ead0376)

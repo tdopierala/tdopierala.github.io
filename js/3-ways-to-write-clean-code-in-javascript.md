@@ -1,8 +1,8 @@
-## 3+ Ways to Write Clean Code in JavaScript
+# 3+ Ways to Write Clean Code in JavaScript
 
 Coding is an art, so why not make it as clean as possible? In this tutorial, I go over 3 techniques I like to implement to help make my JavaScript code easier to read and extend upon.
 
-#### 01-avoid-else-statements.js
+## 01-avoid-else-statements.js
 
 ```javascript
 function getThemeColors() {
@@ -25,7 +25,7 @@ function getThemeColors() {
 }
 ```
 
-#### 02-skip-loop-iterations.js
+## 02-skip-loop-iterations.js
 
 ```javascript
 const numbers = [4, 9, 2, 7, 11];
@@ -38,7 +38,8 @@ for (const n of numbers) {
 }
 ```
 
-#### 03-array-map-for-transformations.js
+
+## 03-array-map-for-transformations.js
 
 ```javascript
 const names = ["dom", "peter", "aleisha", "sam"];

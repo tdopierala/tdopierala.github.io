@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "ee3ad02556d49b7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e93d2df2e40f78b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ed75a695bb7a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js/15_best_tips_to_improve_your_javascript_skils.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d005c9364d9017c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaae2848affc8507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed636c28e57ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0c691e7b8b4d1b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a2bab5aeaf1ff65",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "d3752e2770483e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "beaeb750567e423b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b32bba43c8af9b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "js/15_best_tips_to_improve_your_javascript_skils.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d45a6c066e878ae1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "js/15_best_tips_to_improve_your_javascript_skils.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "560e7ed0abe7cdf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "602b217de5795105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "js/15_best_tips_to_improve_your_javascript_skils.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a0ed75a695bb7a98",
+  "lastOpenFiles": [
+    "js/12-tips-for-writing-clean-and-scalable-javascript.md",
+    "js/10-must-know-javascript-array-methods.md",
+    "js/7-javascript-clean-coding-tips-every-developer-should-know.md",
+    "js/3-ways-to-write-clean-code-in-javascript.md",
+    "README.md",
+    "js/15_best_tips_to_improve_your_javascript_skils.md",
+    "js/7-javascript-clean-coding-tips-every-developer-should-know 1.md",
+    "pages/12-tips-for-writing-clean-and-scalable-javascript.md",
+    "js/merge-two-json-objects-with-same-key-in-js.md",
+    "js/javascript-design-patterns-for-developers.md"
+  ]
+}

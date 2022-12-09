@@ -11,7 +11,7 @@ A continuously-evolving compendium of javascript tips based on common areas of c
 - Rest Syntax
 - Array Methods
 - Generators
-- Identity Operator (===) vs. Equality Operator (==)
+- Identity Operator (\=\=\=) vs. Equality Operator (\=\=)
 - Object Comparison
 - Callback Functions
 - Promises
